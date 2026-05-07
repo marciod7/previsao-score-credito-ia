@@ -1,3 +1,4 @@
-﻿gabarito.ipynb
+﻿*.csv
+gabarito*.ipynb
 venv/
 .ipynb_checkpoints/
